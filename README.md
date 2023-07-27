@@ -44,7 +44,7 @@
 <h1> :fr: Projet Final de Garage avec PSeInt </h1>
 :octocat: Dans ce dépôt, vous trouverez le projet final de garage réalisé au cours du première semestre du diplôme universitaire en programmation de l'Université Technologique Nationale.
 <br>
-<br>Au cours du première semestre, nous avons commencé à développer avec PSeInt, un software éducatif multiplateforme gratuit. C'est la raison pour laquelle le projet du semestre a été réalisé avec ces deux technologies. 
+<br>Au cours du première semestre, nous avons commencé à développer avec PSeInt, un software éducatif multiplateforme gratuit. C'est la raison pour laquelle le projet du semestre a été réalisé avec cet technologie. 
 <br>
 <br>Le projet est un organisateur de garage dans lequel l’utilisateur peut : 
 <dl>
